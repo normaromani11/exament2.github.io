@@ -1,0 +1,77 @@
+
+
+html {
+    border: 2px solid red;
+}
+
+body {
+    border: 2px solid yellow;
+}
+
+#container { 
+    
+   width: 95%;
+   margin: 0 auto;
+}
+
+.banner{ width: 1300px;
+        height: 150px;
+    }
+
+main{
+   display: flex;
+}
+
+
+aside{
+    width: 20%;
+}
+
+
+footer{
+    background-color: gray;
+    display: flex;
+}
+
+
+aside a{
+    margin: 10px;
+    display: inline-block;
+}
+
+section {
+    width: 80%;
+    display: flex;
+    display: inline; }
+
+article {
+    margin: 10px;}
+
+article img{
+    margin-top: 0px;
+    margin-left: 0px; 
+    margin-right: 20px;
+    margin-bottom: 10px;
+    width: 140px;
+    height: 180px;
+    float: left;}
+
+article p{
+        text-align: justify;} 
+ footer p{
+    width: 90%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+    margin-left: 20px;
+    color: white;
+     }
+        
+footer div {
+    margin: 10px;
+    display: flex;
+        }
+        
+footer div img {
+    padding-right: 10px;
+        }

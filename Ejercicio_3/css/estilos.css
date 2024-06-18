@@ -1,0 +1,25 @@
+
+.container {
+    display: flex;
+    padding: 7px;
+    box-direction: row;
+    background-color: green;
+}
+
+p {
+    margin: 5px;
+    padding: 5px;
+    text-align: justify;    
+}
+
+.box1 {
+    background-color: bisque;   
+}
+
+.box2{
+    background-color: greenyellow;
+}
+
+.box3{
+    background-color: aquamarine;
+}

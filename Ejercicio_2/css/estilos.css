@@ -1,0 +1,22 @@
+.container{
+    display: inline-block;
+    padding: 5px;
+    background-color: green;
+}
+
+p {
+    margin: 5px;
+    padding: 10px;
+    text-align: justify;
+    border: 10px;
+}
+
+.box1 {
+    background-color: chocolate;
+}
+.box2 {
+    background-color: orange;
+}
+.box3 {
+    background-color: cyan;
+}
