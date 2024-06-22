@@ -1,0 +1,17 @@
+html{ border: 2px solid yellow;}
+body{
+    margin: 5px;
+    border: 2px solid blue;
+    padding: 10px;
+}
+img{ margin: 15px;
+    border: 2px solid orange;
+    border-radius: 50px;}
+p{
+    border: 2px solid red;
+    padding: 10px;
+    text-align: justify;
+}
+h1 { border: 2px solid green;}
+strong { border: 2px solid green;}
+a { border: 2px solid green;}

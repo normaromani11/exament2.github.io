@@ -1,0 +1,28 @@
+body {
+    margin: 100px;
+    border: 1px solid blueviolet;
+    padding: 0;
+}
+.p1 { 
+    color: blue;
+    margin: 100px;
+    border: 50px solid rgb(236, 80, 63);
+    padding: 25px;
+    background-color: rgb(184, 231, 162);
+    text-align: center;
+    display: inline-block;
+
+}
+.p2 {
+
+    color: blue;
+    margin: 100px;
+    border: 50px solid rgb(231, 159, 222);
+    border-radius: 20px;
+    padding: 25px;
+    background-color: rgb(231, 229, 97);
+    text-align: center;
+    display: inline-block;
+   
+
+}

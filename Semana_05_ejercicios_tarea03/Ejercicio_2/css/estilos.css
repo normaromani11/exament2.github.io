@@ -1,0 +1,14 @@
+body { margin: 0;
+border: 0;
+padding: 0;}
+.parrafo1 { margin: 100px;
+border: 50px solid rgb(205, 147, 228);
+padding: 25px;
+text-align: justify;
+background-color: rgb(117, 220, 238);}
+.parrafo2 {margin: 100px;
+border: 50px solid rgb(238, 236, 119);
+ border-radius: 20px;
+padding: 25px;
+text-align: justify;
+background-color: rgb(148, 235, 148);}
